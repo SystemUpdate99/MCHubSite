@@ -685,10 +685,10 @@ a {
 .cid-t0lW8BRBAh {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/background8.jpg");
+  background-image: url("../../../assets/images/mbr.png");
 }
 .cid-t0lW8BRBAh .card-wrapper {
-  background: #ffffff;
+  background: #dcdfe6;
   border-radius: 4px;
 }
 @media (max-width: 767px) {
@@ -705,4 +705,55 @@ a {
   .cid-t0lW8BRBAh .card-wrapper {
     padding: 4rem;
   }
+}
+.cid-t0mbG4wiJU {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+.cid-t0mbG4wiJU .number-wrap {
+  color: #555555;
+  text-align: center;
+}
+.cid-t0mbG4wiJU .number {
+  color: #6592e6;
+}
+.cid-t0mbG4wiJU .period {
+  display: block;
+}
+.cid-t0mbG4wiJU .dot {
+  display: none;
+}
+@media (max-width: 767px) {
+  .cid-t0mbG4wiJU .period {
+    font-size: 0.8rem;
+  }
+}
+.cid-t0mbG4wiJU .btn {
+  height: 100%;
+  margin: 0;
+}
+.cid-t0mbG4wiJU .mbr-section-btn {
+  margin-bottom: 1.2rem;
+}
+.cid-t0mbG4wiJU .icons-menu .soc-item {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.cid-t0mbG4wiJU .icons-menu .soc-item .mbr-iconfont {
+  font-size: 2rem;
+  display: flex;
+  border-radius: 50%;
+  text-align: center;
+  color: #6592e6;
+  border: 2px solid #6592e6;
+  justify-content: center;
+  align-content: center;
+  transition: all 0.3s;
+}
+.cid-t0mbG4wiJU .icons-menu .soc-item .mbr-iconfont:before {
+  padding: 0.6rem;
+}
+.cid-t0mbG4wiJU .icons-menu .soc-item .mbr-iconfont:hover {
+  background-color: #6592e6;
+  color: #ffffff;
 }
